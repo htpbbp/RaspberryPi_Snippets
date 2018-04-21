@@ -1,2 +1,2 @@
-# RaspberryPi_Snipptes
+# RaspberryPi_Snippets
 Raspberry Pi code snippets
